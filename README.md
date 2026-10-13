@@ -14,7 +14,7 @@ This project was developed for the SHL Research Engineer hiring assessment. The 
 The models were evaluated using out-of-fold predictions and metrics including RMSE and Pearson correlation.
 
 ## Files
-- `SHL_Grammar_Scoring_Final_Colab.ipynb` — notebook containing the implementation and experiments.
+- `shl_grammar_scoring.ipynb` — notebook containing the implementation and experiments.
 - `submission.csv` — final prediction file, if permitted by the competition rules.
 
 ## Reproducibility
